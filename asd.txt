@@ -7,5 +7,9 @@ hola
 hola
 >>>>>>> 129c8b0cc4aeba244d42d85990bac23e7daaef15
 
+<<<<<<< HEAD
 
 klk
+=======
+holi
+>>>>>>> 9d8383c2ce9ca664254a1dd236811bd50aa8e9ca
