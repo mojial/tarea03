@@ -1,4 +1,8 @@
 asdasd
 asdasd
+<<<<<<< HEAD
 
 hola
+=======
+hola
+>>>>>>> 129c8b0cc4aeba244d42d85990bac23e7daaef15
